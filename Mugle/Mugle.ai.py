@@ -71,7 +71,7 @@ menu_pool = {
     "🥗 건강/가벼운": ["샐러드", "서브웨이", "포케 볼", "생선구이", "맥도날드", "버거킹", "KFC", "미역국"],
     "👨‍🍳 백종원": ["홍콩 반점", "새마을 식당", "조보아씨 내려와 봐유", "빽다방", "돌아갈까봐 그래유"]
 }
-shaming_comments = ["안목이 이것뿐인가?", "박 대리, 서류 미비일세!", "반려하겠네.", "다시 골라오게."]
+shaming_comments = ["안목이 이것뿐인가?", "박 대리, 서류 미비일세!", "반려하겠네.", "다시 골라오게.", "킹 받쥬?", "꼬우면 너가 지점장해"]
 
 if 'app_state' not in st.session_state: st.session_state.app_state = "READY"
 if 'reject_count' not in st.session_state: st.session_state.reject_count = 0
